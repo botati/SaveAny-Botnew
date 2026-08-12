@@ -1,3 +1,5 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/botati/SaveAny-Bot)
+
 <div align="center">
 
 # <img src="docs/static/logo.png" width="45" align="center"> Save Any Bot
