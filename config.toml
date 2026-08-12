@@ -1,4 +1,4 @@
-lang = "ar" # لغة البوت (ar للعربية أو en للإنجليزية)
+lang = "en" # لغة البوت (ar للعربية أو en للإنجليزية)
 
 [telegram]
 token = "6819257727:AAH7t2kUypQKLMxvdZdvJw82tRyydBKWLFY"
